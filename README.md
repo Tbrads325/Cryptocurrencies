@@ -12,11 +12,11 @@ Performed Principal Component Analysis algorithm to reduce the DataFrame from de
 ## Deliverable 3
 Utilizing an elbow curve the K-means algorithm was used on the DataFrame created in deliverable 2 to create clusters on the cryptocurrencies. 
 
-![]()
+![elbow.png](https://github.com/Tbrads325/Cryptocurrencies/blob/main/images/elbow.png)
 
 ## Deliverable 4
 Created a 3D scatter plot to visualize the different groups of cryptocurrencies and a final table combining the DataFrames from deliverable 2 and 3.
 
-![]()
+![Scatter.png](https://github.com/Tbrads325/Cryptocurrencies/blob/main/images/Scatter.png)
 
-![]()
+![table.png](https://github.com/Tbrads325/Cryptocurrencies/blob/main/images/table.png)
